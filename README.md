@@ -31,19 +31,19 @@
 
 <h2>🔥 GitHub Stats 🔥</h2>
 
-<div align="center">
+
   <p>
-    <img align="left" width="355" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngottruong26&theme=radical&show_icons=true&locale=en&layout=compact" alt="ngottruong26" />
+    <img width="355" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngottruong26&theme=radical&show_icons=true&locale=en&layout=compact" alt="ngottruong26" />
   </p>
   
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ngottruong26&theme=radical&show_icons=true&locale=en" alt="ngottruong26" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ngottruong26&theme=radical&show_icons=true&locale=en" alt="ngottruong26" />
   </p>
   
   <p>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ngottruong26&theme=radical" alt="ngottruong26" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngottruong26&theme=radical" alt="ngottruong26" />
   </p>
-</div>
+
 
 
   
