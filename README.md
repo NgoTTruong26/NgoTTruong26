@@ -23,8 +23,6 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Express-ffffff?logo=express&logoColor=black&style=for-the-badge" alt="Express.js logo" title="Express.js" height="30" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/MySQL-3e6e93?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL logo" title="MySQL" height="30" /></span>
-  &nbsp;
 </div>
 
 <br>
